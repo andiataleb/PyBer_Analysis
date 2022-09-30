@@ -13,7 +13,11 @@ Based on the summary chart below, the total rides in Urban cities is more than S
 
 Additionaly, based on the weekly summary of total fares for each city type Rural has the lowest after Suburban and Urban cities. 
 
+
+
 ![](analysis/pyber_fare_summary.png)
+
+
 
 
 ## Summary
