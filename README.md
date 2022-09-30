@@ -15,7 +15,7 @@ Additionaly, based on the weekly summary of total fares for each city type Rural
 
 
 
-![](analysis/pyber_fare_summary.png)
+![](analysis/PyBer_fare_summary.png)
 
 
 
