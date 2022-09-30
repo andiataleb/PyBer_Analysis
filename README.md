@@ -9,9 +9,13 @@ In order to complete this task, using Python coding, I calculated the total ride
 
 Based on the summary chart below, the total rides in Urban cities is more than Suburban and Rural and therefore more drivers are using the app in those cities and the total fares are higher. However, it can be seen that the average fare for each ride is about $10.00 higher in Rural cities compared to Urban city type and about $6.00 more in suburban cities in comparison with urban city type. Moreover, the average fare for each driver is highest respectively for rural, suburban and urban cities. 
 ![](analysis/summary.png)
+
+
 Additionaly, based on the weekly summary of total fares for each city type Rural has the lowest after Suburban and Urban cities. 
 
 ![](analysis/pyber_fare_summary.png)
+
+
 ## Summary
 Considering this information and the purpose of the analysis being to make the ride-share services more affordable in underserved neighborhoods, my suggestions are as follow:
 1) To lower the cost of each fare per ride by having more people as drivers in rural city types. This will result in more total rides and more total fares while lowering the average fare per ride.This will also lower the average fare per deriver which is 3.3 times more in rural cities compared to urban cities and can be lowered considerably.
